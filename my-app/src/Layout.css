@@ -1,0 +1,9 @@
+.header {
+    text-align: left;
+    border: 1px solid red;
+    display: flex;
+}
+
+.body {
+    border: 2px solid green;
+}

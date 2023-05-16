@@ -1,0 +1,23 @@
+body {
+    border: 1px solid green;
+}
+
+#about-content {
+    text-align: left;
+    border: 1px solid purple;
+}
+
+#project-content {
+    text-align: left;
+    border: 1px solid rgb(255, 0, 0);
+}
+
+#learn-content {
+    text-align: left;
+    border: 1px solid yellow;
+}
+
+#contact-content {
+    text-align: left;
+    border: 1px solid gray;
+}

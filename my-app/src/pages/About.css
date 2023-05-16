@@ -1,0 +1,30 @@
+#main-about {
+    text-align: left;
+    border: 1px solid red;
+    display: flex;
+}
+
+#main-about-pic {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#early-about {
+    text-align: left;
+    border: 1px solid purple;
+}
+
+#school-about {
+    text-align: left;
+    border: 1px solid yellow;
+}
+
+#interest-about {
+    text-align: left;
+    border: 1px solid blue;
+}
+
+#career-about {
+    text-align: left;
+    border: 1px solid green;
+}
